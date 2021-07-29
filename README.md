@@ -1,7 +1,7 @@
 <h1 align="center">bateria</h1>
 
 <h1 align="center">
-    <img alt="bateria" title="bateria" src="assets/screenshot.PNG" />
+    <img alt="bateria" title="bateria" src="assets/screenshot.png">
 </h1>
 
 <h4 align="center"> 
